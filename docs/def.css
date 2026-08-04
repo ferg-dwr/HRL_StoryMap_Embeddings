@@ -1,0 +1,56 @@
+/* HRL vocabulary definitions — sized to sit inside StoryMaps body text */
+:root{
+  --ink:#1B1B1B;
+  --term:#1C5BC4;
+  --muted:#5A5A5A;
+  --body:"Open Sans","Noto Sans","Helvetica Neue",Arial,system-ui,sans-serif;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;background:transparent;}
+body{
+  font-family:var(--body);
+  color:var(--ink);
+  font-size:16px;
+  line-height:1.55;
+  padding:2px 2px 6px;
+  -webkit-font-smoothing:antialiased;
+}
+
+.entry{max-width:660px;margin:0;}
+
+.term{font-weight:700;color:var(--term);}
+.say{font-style:italic;color:var(--ink);}
+.pos{font-style:italic;color:var(--muted);}
+
+.headline{margin:0 0 2px;font-size:16px;line-height:1.5;}
+.def{margin:0;}
+
+/* inline secondary terms inside the definition */
+.def .term{font-weight:700;}
+
+.speak{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:20px;height:20px;padding:0;margin-left:4px;
+  vertical-align:-4px;
+  color:var(--term);background:none;border:none;border-radius:50%;
+  cursor:pointer;opacity:.6;transition:opacity .15s,background .15s;
+}
+.speak:hover{opacity:1;background:rgba(28,91,196,.1);}
+.speak.is-playing{opacity:1;background:rgba(28,91,196,.18);}
+.speak svg{width:13px;height:13px;}
+
+/* index page */
+.index-head{font-size:17px;font-weight:700;margin:0 0 2px;}
+.index-sub{font-size:14px;color:var(--muted);margin:0 0 12px;}
+.chips{display:flex;flex-wrap:wrap;gap:6px;}
+.chip{
+  display:inline-block;font-size:14px;padding:3px 11px;
+  border:1px solid #D6DDE8;border-radius:999px;
+  color:var(--term);text-decoration:none;background:#fff;
+  transition:background .15s,color .15s,border-color .15s;
+}
+.chip:hover{background:var(--term);border-color:var(--term);color:#fff;}
+
+:focus-visible{outline:2px solid var(--term);outline-offset:2px;}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;}}
+@media (max-width:420px){body{font-size:15px;}}

@@ -1,0 +1,110 @@
+{
+  "ecology": {
+    "word": "Ecology",
+    "say": "ee-KAH-luh-jee",
+    "pos": "noun",
+    "def": "Ecology is the study of how living things — like animals, plants, and people — interact with each other and the world around them. It's kind of like learning the rules of a really big neighborhood: who lives where, what they eat, how they help each other, and what happens when something changes. Scientists who study ecology are called [[ecologists|ee-KAH-luh-jists]]."
+  },
+  "delta": {
+    "word": "Delta",
+    "say": "DEL-tuh",
+    "pos": "noun",
+    "def": "A delta is the place where a river spreads out and drops the dirt it has been carrying, right before it reaches the sea. California's Delta is where two big rivers — the Sacramento and the San Joaquin — run into each other and head west toward the ocean. Almost every drop of water in this story passes through it."
+  },
+  "watershed": {
+    "word": "Watershed",
+    "say": "WAH-ter-shed",
+    "pos": "noun",
+    "def": "A watershed is all the land where rain and melting snow drain into the same river. Stand anywhere inside one, pour out a cup of water, and it starts heading for the same place everything else does. The Sacramento and San Joaquin watershed covers almost half of California."
+  },
+  "tributary": {
+    "word": "Tributary",
+    "say": "TRIB-yoo-tair-ee",
+    "pos": "noun",
+    "def": "A tributary is a smaller river or stream that flows into a bigger one. Rivers don't start out big — they grow by collecting tributaries the whole way down. The Yuba River is a tributary of the Feather River, which is a tributary of the Sacramento."
+  },
+  "snowpack": {
+    "word": "Snowpack",
+    "say": "SNOH-pak",
+    "pos": "noun",
+    "def": "Snowpack is snow that piles up in the mountains all winter and stays frozen instead of melting right away. When spring comes, it melts slowly and feeds the rivers for months. That's why California's snowpack works a little like a giant water tank made of snow."
+  },
+  "tule": {
+    "word": "Tule",
+    "say": "TOO-lee",
+    "pos": "noun",
+    "def": "Tule is a tall green reed that grows in shallow water. It once covered most of the Delta, and some of it grew taller than a basketball hoop — thick enough that a boat could disappear from view inside a stand of it."
+  },
+  "floodplain": {
+    "word": "Floodplain",
+    "say": "FLUD-playn",
+    "pos": "noun",
+    "def": "A floodplain is the flat land next to a river that gets covered in water when the river runs high. Here's the surprising part: floodplains are supposed to flood. That's their job. When a river spreads out across one, the water slows down, warms up in the sun, and grows food for young fish."
+  },
+  "wetland": {
+    "word": "Wetland",
+    "say": "WET-land",
+    "pos": "noun",
+    "def": "A wetland is land that stays soaked with water for much of the year. It isn't quite dry land and isn't quite a lake — it's its own thing, somewhere in between. Enormous numbers of birds, fish, and other animals depend on wetlands, and the Delta was once one of the biggest on the West Coast."
+  },
+  "habitat": {
+    "word": "Habitat",
+    "say": "HAB-ih-tat",
+    "pos": "noun",
+    "def": "A habitat is the kind of place a plant or animal needs in order to live — the right food, the right water, the right temperature, the right places to hide. When a habitat disappears, the animals that depended on it usually can't just move somewhere else."
+  },
+  "salmon": {
+    "word": "Salmon",
+    "say": "SAM-un",
+    "pos": "noun",
+    "def": "A salmon is a large fish with an unusual life story. It is born in a river, swims all the way out to the ocean to grow up, and then swims all the way back up the same river to lay its eggs. A Chinook salmon can travel hundreds of miles to get home. (The letter L in salmon is silent.)"
+  },
+  "spawn": {
+    "word": "Spawn",
+    "say": "SPAWN",
+    "pos": "verb",
+    "def": "To spawn means to lay eggs, which is what fish do at the end of their journey. Salmon spawn in cool, clean gravel at the bottom of a river — and remarkably, they return to the exact stream where they were born to do it."
+  },
+  "migrate": {
+    "word": "Migrate",
+    "say": "MY-grayt",
+    "pos": "verb",
+    "def": "To migrate is to travel a long way from one home to another, usually around the same time every year. Young salmon migrate downriver in spring, riding the high water toward the ocean. The trip itself is called a [[migration|my-GRAY-shun]]."
+  },
+  "estuary": {
+    "word": "Estuary",
+    "say": "ES-choo-air-ee",
+    "pos": "noun",
+    "def": "An estuary is a place where river water and ocean water mix together. The water there is a little salty — not quite fresh, not quite sea. That in-between water is unusual, and a lot of animals need exactly it. The Delta is the front door of the largest estuary on the West Coast."
+  },
+  "levee": {
+    "word": "Levee",
+    "say": "LEV-ee",
+    "pos": "noun",
+    "def": "A levee is a long wall of earth built along a river to keep water from spreading out onto the land. Levees made it possible to farm the Delta and to build towns there. They also cut the river off from its floodplain, which is where young salmon used to grow."
+  },
+  "sediment": {
+    "word": "Sediment",
+    "say": "SED-ih-munt",
+    "pos": "noun",
+    "def": "Sediment is the bits of sand, mud, and ground-up rock that moving water carries along with it. When the water slows down, the sediment settles to the bottom and builds new land. Sediment washing down from the mountains is what built the Delta in the first place."
+  },
+  "ecosystem": {
+    "word": "Ecosystem",
+    "say": "EE-koh-sis-tum",
+    "pos": "noun",
+    "def": "An ecosystem is all the living things in one place — plus the water, soil, and air they depend on, and all the ways they're connected to each other. The connections are the important part. Take one piece out of an ecosystem and the other pieces feel it."
+  },
+  "restoration": {
+    "word": "Restoration",
+    "say": "res-tuh-RAY-shun",
+    "pos": "noun",
+    "def": "Restoration means helping a damaged place work the way it used to. It isn't about making a place look pretty. It's about getting the place doing its old jobs again — holding water, growing food, giving fish somewhere to grow up. To [[restore|ree-STOR]] a floodplain, you give the river back some of the room it used to have."
+  },
+  "monitoring": {
+    "word": "Monitoring",
+    "say": "MON-ih-ter-ing",
+    "pos": "noun",
+    "def": "Monitoring means watching and measuring something carefully over a long time, so you can tell whether it's getting better or worse. It's the unglamorous part of science, and it's how anyone finds out whether a restored floodplain is actually helping the fish — or whether the plan needs to change."
+  }
+}

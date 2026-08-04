@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Estuary — Healthy Rivers and Landscapes</title>
+<meta name="description" content="An estuary is a place where river water and ocean water mix together. The water there is a little salty — not quite fresh, not quite sea. That in-betw">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../def.css">
+</head>
+<body>
+<div class="entry">
+  <p class="headline"><strong class="term">Estuary</strong>
+    <em class="say">(say it: ES-choo-air-ee)</em><button class="speak" type="button" data-word="Estuary" aria-label="Hear Estuary spoken aloud"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 3 4 6H2v4h2l3 3V3Z"/><path d="M10.5 5.5a3.5 3.5 0 0 1 0 5"/></svg></button>
+    &mdash; <em class="pos">noun</em></p>
+  <p class="def">An estuary is a place where river water and ocean water mix together. The water there is a little salty — not quite fresh, not quite sea. That in-between water is unusual, and a lot of animals need exactly it. The Delta is the front door of the largest estuary on the West Coast.</p>
+</div>
+
+<script>
+(function(){
+  var btns=document.querySelectorAll('.speak');
+  if(!('speechSynthesis' in window)){
+    btns.forEach(function(b){b.style.display='none';});
+    return;
+  }
+  btns.forEach(function(b){
+    b.addEventListener('click',function(){
+      window.speechSynthesis.cancel();
+      var u=new SpeechSynthesisUtterance(b.dataset.word);
+      u.rate=0.82; u.lang='en-US';
+      b.classList.add('is-playing');
+      u.onend=u.onerror=function(){b.classList.remove('is-playing');};
+      window.speechSynthesis.speak(u);
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
