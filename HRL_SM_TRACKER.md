@@ -258,9 +258,7 @@ FIG-i embed styled like the vocabulary cards. Recommend the latter for consisten
 
 ### Panel 1 — Opening
 
-> The Delta stopped doing its jobs.
->
-> Here is what that cost. And not just for the fish.
+> When the marsh disappeared, the Delta stopped doing its jobs.
 
 **Media — FIG-i:** Reprise the three-jobs interactive from Screen 1 Panel 5, now with
 each job greyed out or marked. Reusing the same graphic makes the callback visual as
@@ -272,16 +270,14 @@ well as verbal.
 >
 > Deep, straight **channels** work differently. The water moves too fast. Sunlight stops partway down. Not much grows.
 >
-> Same river. Same water. Much less food.
->
 > Scientists tested this right here in the Central Valley. Just west of Sacramento there is a wide, flat piece of farmland called the **Yolo Bypass**. It is built to flood on purpose. Young salmon that spent a few weeks on those flooded fields grew faster than salmon that stayed in the river.
 
-> **Why it matters to you**
+> **But why should we care?**
+>
 > The Yolo Bypass was built to keep Sacramento from flooding. When the river runs high, the water spreads out there instead of into the city. The same flooded field that feeds baby salmon is the one keeping neighborhoods dry — and farmers grow rice on it the rest of the year.
 
-**Media — DWR:** *If available* — **aerial of the Yolo Bypass under flood**, ideally
-paired with a dry-season shot of the same ground. DWR operates the bypass, so this
-imagery very likely exists. The wet/dry pair is the whole argument in two frames.
+**Media — DWR:** Pascale suggestion on animation of flooding as seen by satellite imagery.
+
 **Supporting — FIG:** food web comparison, shallow floodplain vs. deep channel.
 
 ### Panel 3 — The sponge dried out
@@ -294,7 +290,8 @@ imagery very likely exists. The wet/dry pair is the whole argument in two frames
 >
 > Some Delta islands now sit lower than the water outside their **levees**. In places, two or three stories lower.
 
-> **Why it matters to you**
+> **But why should we care?**
+>
 > Those levees protect farms, towns, highways, and the pipes that carry drinking water to millions of Californians. The land behind them keeps dropping. So the walls have to keep getting taller. That bill never stops coming.
 
 **Media — DWR:** *If available* — a **photo taken from atop a Delta levee** looking down
@@ -312,7 +309,8 @@ static figure has to work hard to show it.
 >
 > The thicktail chub has not been seen since the 1950s. It is gone. A fish that lived only here, and now does not live anywhere.
 
-> **Why it matters to you**
+> **But why should we care?**
+>
 > When native fish get into trouble, people feel it too. Salmon fishing has been closed in California in recent years. That hits fishing families, boat owners, and coastal towns. And rules made to protect fish in trouble shape how much water can be sent to farms and cities. Healthy fish make those choices easier for everyone.
 
 **Media — FIG:** Native fish vignettes — illustrations or specimen photographs with
