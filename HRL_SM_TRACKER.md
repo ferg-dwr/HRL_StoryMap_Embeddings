@@ -292,7 +292,7 @@ well as verbal.
 
 > **But why should we care?**
 >
-> Those levees protect farms, towns, highways, and the pipes that carry drinking water to millions of Californians. The land behind them keeps dropping. So the walls have to keep getting taller. That bill never stops coming.
+> Those levees protect farms, towns, highways, and the pipes that carry drinking water to millions of Californians. The land behind them keeps dropping. So the walls have to keep getting taller.
 
 **Media — DWR:** *If available* — a **photo taken from atop a Delta levee** looking down
 at the island below, with water visible on the other side. Nothing explains subsidence
