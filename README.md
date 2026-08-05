@@ -39,16 +39,19 @@ Live at `https://<user>.github.io/<repo>/words/<slug>.html`
 
 ## Embedding in ArcGIS StoryMaps
 
-**Embed block** — paste the URL. Suggested heights:
+**Embed block** — paste the URL. The card centers itself vertically and horizontally in
+whatever space it's given, so err on the tall side; extra space around the card is
+invisible.
 
 | Definition length | Height |
 |---|---|
-| 2–3 lines | 120px |
-| 4–5 lines | 160px |
-| 6+ lines | 200px |
-| Index page | 220px |
+| 2-3 lines | 200px |
+| 4-5 lines | 250px |
+| 6+ lines (ecology, salmon, restoration) | 300px |
+| Index page | 280px |
 
-Check on mobile — text reflows longer on narrow screens, so add ~40px of headroom.
+Text reflows longer on narrow screens, so add ~60px of headroom and check on mobile.
+Too short clips the card; too tall just adds empty space.
 
 **Or link the word** — select the bold term in the StoryMaps text, add a link, paste
 the URL. Opens in a new tab and doesn't interrupt the scroll.
