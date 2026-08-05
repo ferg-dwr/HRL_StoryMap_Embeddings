@@ -35,9 +35,9 @@
 
 ### Panel 1 — It all starts in rivers and streams, far from the ocean✅
 
-> Winter in California. High up in the Sierra Nevada mountains, snow is piling up.
+> Winter in California - in wet years, it's raining, and high up in the Sierra Nevada mountains, it's snowing.
 >
-> When spring comes, that snow melts. And melted snow does what all water does — it runs downhill.
+> When spring comes, the rivers rise up with snow melt. And melted snow does what all water does — it runs downhill.
 >
 > It starts in tiny streams you could step across. Those streams join up and get bigger. They become rivers with names: the Yuba. The American. The Merced. The Tuolumne.
 >
