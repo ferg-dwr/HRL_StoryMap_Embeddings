@@ -111,17 +111,15 @@ Migratory birds on winter-flooded rice ground is a strong, common Central Valley
 and it quietly previews Chapter 2's farming-and-habitat argument.
 **Alternate — MAP:** Pacific Flyway overlay showing the Delta as a stopover.
 
-### Panel 5 — The Delta had jobs ✅
+### Panel 5 — The Delta...✅
 
-> Here's the part that's easy to miss. The Delta was doing work.
+> ... was a **kitchen**. Shallow, sunny water grew food, and that food fed everything else.
 >
-> It was a **kitchen**. Shallow, sunny water grew food, and that food fed everything else.
+> ... was a **sponge**. When the rivers ran high, the **marsh** spread that water out and slowed it down.
 >
-> It was a **sponge**. When the rivers ran high, the **marsh** spread that water out and slowed it down.
+> ... was a **nursery**. Young salmon grew bigger and stronger here before facing the ocean.
 >
-> It was a **nursery**. Young salmon grew bigger and stronger here before facing the ocean.
->
-> The Delta did all of this for thousands of years. Nobody built it. Nobody paid for it. It just worked.
+> The Delta did all of this for thousands of years.
 
 **Three jobs — kitchen, sponge, nursery — are the spine of Chapter 1.** Screen 3 pays
 off each one by name.
