@@ -33,7 +33,7 @@
 **Layout:** 5 panels. Media = statewide map, layers revealed per slide.
 **Status:** ✅ copy drafted · 🟡 media in progress
 
-### Panel 1 — It starts as snow and rain ✅
+### Panel 1 — It all starts in rivers and streams, far from the ocean✅
 
 > Winter in California. High up in the Sierra Nevada mountains, snow is piling up.
 >
