@@ -45,7 +45,7 @@
     "word": "Wetland",
     "say": "WET-land",
     "pos": "noun",
-    "def": "A wetland is land that stays soaked with water for much of the year. It isn't quite dry land and isn't quite a lake — it's its own thing, somewhere in between. Enormous numbers of birds, fish, and other animals depend on wetlands, and the Delta was once one of the biggest on the West Coast."
+    "def": "A wetland is land that stays soaked with water for much of the year. It sits somewhere between dry land and a lake, and it has its own kind of life. Enormous numbers of birds, fish, and other animals depend on wetlands. The Delta was once one of the biggest on the West Coast."
   },
   "habitat": {
     "word": "Habitat",
@@ -75,7 +75,7 @@
     "word": "Estuary",
     "say": "ES-choo-air-ee",
     "pos": "noun",
-    "def": "An estuary is a place where river water and ocean water mix together. The water there is a little salty — not quite fresh, not quite sea. That in-between water is unusual, and a lot of animals need exactly it. The Delta is the front door of the largest estuary on the West Coast."
+    "def": "An estuary is a place where river water and ocean water mix together. The water there turns a little salty — fresher than the sea, saltier than a river. That in-between water is unusual, and a lot of animals need exactly it. The Delta is the front door of the largest estuary on the West Coast."
   },
   "levee": {
     "word": "Levee",
@@ -99,12 +99,54 @@
     "word": "Restoration",
     "say": "res-tuh-RAY-shun",
     "pos": "noun",
-    "def": "Restoration means helping a damaged place work the way it used to. It isn't about making a place look pretty. It's about getting the place doing its old jobs again — holding water, growing food, giving fish somewhere to grow up. To [[restore|ree-STOR]] a floodplain, you give the river back some of the room it used to have."
+    "def": "Restoration means helping a damaged place work the way it used to. The goal is to get the place doing its old jobs again — holding water, growing food, giving fish somewhere to grow up. To [[restore|ree-STOR]] a floodplain, you give the river back some of the room it used to have."
   },
   "monitoring": {
     "word": "Monitoring",
     "say": "MON-ih-ter-ing",
     "pos": "noun",
     "def": "Monitoring means watching and measuring something carefully over a long time, so you can tell whether it's getting better or worse. It's the unglamorous part of science, and it's how anyone finds out whether a restored floodplain is actually helping the fish — or whether the plan needs to change."
+  },
+  "marsh": {
+    "word": "Marsh",
+    "say": "MARSH",
+    "pos": "noun",
+    "def": "A marsh is soft, wet ground where water sits most of the year and tall grassy plants grow. The ground stays soaked, the water stays shallow, and life piles up fast."
+  },
+  "peat": {
+    "word": "Peat",
+    "say": "PEET",
+    "pos": "noun",
+    "def": "Peat is a special kind of soil made of dead plants that piled up underwater. Underwater, plants rot very slowly, so the pile keeps growing for thousands of years. Peat soaks up water like a sponge — and if you drain the water away, the peat slowly disappears into the air."
+  },
+  "native": {
+    "word": "Native",
+    "say": "NAY-tiv",
+    "pos": "adjective",
+    "def": "A native plant or animal is one that has lived in a place for a very long time, long before people brought anything new. Some native fish in the Central Valley live nowhere else on Earth."
+  },
+  "channel": {
+    "word": "Channel",
+    "say": "CHAN-ul",
+    "pos": "noun",
+    "def": "A channel is the path a river follows. Some channels are natural and curvy. Others were dug by people to be straight and deep, so boats can pass and water moves fast."
+  },
+  "chinook": {
+    "word": "Chinook",
+    "say": "shi-NOOK",
+    "pos": "noun",
+    "def": "Chinook is the biggest kind of salmon in California, and the one this story follows. Chinook hatch in cold mountain streams, grow up in the ocean, and swim home years later to lay their eggs. Some grow longer than your arm."
+  },
+  "run": {
+    "word": "Run",
+    "say": "RUN",
+    "pos": "noun",
+    "def": "A run is a group of salmon that comes home at the same time of year. California has fall run, spring run, winter run, and late-fall run. They share the same rivers but arrive in different seasons, so they take turns using the same gravel."
+  },
+  "gravel": {
+    "word": "Gravel",
+    "say": "GRAV-ul",
+    "pos": "noun",
+    "def": "Gravel is a bed of small, loose stones at the bottom of a stream. Salmon dig into it to lay their eggs. Cold water flows through the spaces between the stones and keeps the eggs alive."
   }
 }
