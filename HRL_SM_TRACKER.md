@@ -305,15 +305,13 @@ static figure has to work hard to show it.
 
 ### Panel 4 — The nursery emptied out
 
-> Young fish need shallow, slow water to grow up in. Places to hide. Enough food to get big fast.
+> Young salmon need shallow, slow water to grow up in. Places to hide. Enough food to get big fast.
 >
-> The Delta used to be full of those places. It was also full of **native** fish that live nowhere else on Earth. Sacramento perch. Delta smelt. Thicktail chub.
->
-> The thicktail chub has not been seen since the 1950s. It is gone. A fish that lived only here, and now does not live anywhere.
+> The Delta used to be full of those places. For a young salmon, the Delta is now a place to get through as quickly as possible, otherwise there is a higher chance of being eaten or staying in a place that is too warm with not enough food - it's not a place a salmon can thrive.
 
 > **But why should we care?**
 >
-> When native fish get into trouble, people feel it too. Salmon fishing has been closed in California in recent years. That hits fishing families, boat owners, and coastal towns. And rules made to protect fish in trouble shape how much water can be sent to farms and cities. Healthy fish make those choices easier for everyone.
+> When salmon get into trouble, people feel it too. Salmon fishing has been closed in California in recent years. That hits fishing families, boat owners, and coastal towns. And rules made to protect fish in trouble shape how much water can be sent to farms and cities. Healthy fish make those choices easier for everyone.
 
 **Media — FIG:** Native fish vignettes — illustrations or specimen photographs with
 names. Consider CDFW as a source if DWR imagery is thin.
