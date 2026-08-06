@@ -50,11 +50,13 @@ Interactive figures use the same GitHub Pages repo as the vocabulary cards
 
 > Winter in California - in wet years, it's raining, and high up in the Sierra Nevada mountains, it's snowing.
 >
-> When spring comes, the rivers rise up with snow melt. And melted snow does what all water does — it runs downhill.
+> When spring comes, the rivers rise with snow melt. And melted snow does what all water does — it runs downhill.
 >
-> It starts in tiny streams you could step across. Those streams join up and get bigger. They become rivers with names: the Yuba. The American. The Merced. The Tuolumne.
+> It starts in tiny streams you could step across. Those streams join up and get bigger. They become rivers with names: the Yuba. The American. The Tuolumne.
 >
-> All of them are heading for the same place.
+> All of them are heading for the same place - the lower watershed, then the ocean.
+>
+> But it isn't just the water moving downstream. Baby salmon are on the move too, starting their journey to the ocean.
 
 **Media — MAP:** Statewide map on light gray canvas. Sierra extent, then headwater
 streams, then named tributaries revealed across panels 1–2 via per-panel layer
