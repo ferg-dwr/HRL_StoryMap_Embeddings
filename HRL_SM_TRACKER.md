@@ -280,7 +280,7 @@ well as verbal.
 
 **Media — DWR:** Pascale suggestion on animation of flooding as seen by satellite imagery.
 
-**Supporting — FIG:** food web comparison, shallow floodplain vs. deep channel.
+**Supporting — FIG:** food web comparison, shallow floodplain vs. deep channel. _consider a picture comparison of salmon raised in the floodplain vs the river and the food web between the two_
 
 ### Panel 3 — The sponge dried out
 
