@@ -76,7 +76,7 @@ panel.
 >
 > And the two rivers meet in one place, right in the middle of the state. Then they head west toward the ocean.
 >
-> That meeting place is called the **Delta**. Almost every drop of water in this story passes through it.
+> That meeting place is called the **Delta**. Almost every drop of water in this story passes through it. And so must all the salmon born upstream in these rivers - they too must travel through the Delta to arrive at the ocean.
 
 **Media — MAP:** Same web map, zoomed to the confluence, Sac–SJ watershed boundary
 shaded. The shaded polygon *is* the "almost half of California" claim — show it rather
