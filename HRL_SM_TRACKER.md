@@ -179,7 +179,7 @@ channels and geometric fields. Sets up the contrast before either map appears.
 
 > So what happened?
 >
-> People arrived, and they saw something different than we see now. They saw rich soil under all that water — some of the best farmland anywhere in the world, if only it could be drained.
+> Civilization grew, more people arrived, and they saw something different than we see now. They saw rich soil under all that water — some of the best farmland anywhere in the world, if only it could be drained.
 >
 > So they drained it. They built **levees**, long walls of earth, to hold the rivers in place. They dug channels to carry the water away. They turned marsh into fields.
 >
