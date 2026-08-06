@@ -222,7 +222,7 @@ this needs assembling, not sourcing.
 
 ### Panel 6 — The numbers ✅
 
-> The Delta has lost about **86%** of its floodplain.
+> The Delta has lost about **86%** of its floodplain. [_check #s - see LC comment]_
 >
 > About 706,000 acres of floodplain and wetland have become roughly 98,000. That's a little over 600,000 acres gone — [SIZE COMPARISON TBD].
 >
