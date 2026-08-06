@@ -443,7 +443,7 @@ That is the single best use of a Sidecar in the whole story.
 >
 > **It heads downstream.** The young salmon rides the spring water down, out of the mountains, toward the middle of the state.
 >
-> **It stops in the Delta.** This is the part people miss. Young salmon do not race through the Delta. They stop, and they eat, and they grow — sometimes for weeks. And while they are here, their bodies rebuild to survive in salt water. Same fish, different plumbing.
+> **It stops in the Delta.** This is the part people miss. Young salmon do not always race through the Delta. They may need to stop, and eat, and give time to growth — sometimes for weeks. 
 >
 > **It goes to sea.** Out through the Golden Gate and into the Pacific, where it spends two to four years growing into something twenty times its size.
 >
