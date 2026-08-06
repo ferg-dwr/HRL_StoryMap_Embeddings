@@ -357,7 +357,7 @@ in hand during monitoring, or on a spawning gravel bed. Hands off to Screen 4.
 
 **Media — DWR:** *If available* — **adult Chinook on a spawning bed**, or a close portrait.
 
-### Panel 2 — How do you count a fish?
+### Panel 2 — How do you count a fish? [_i'm wondering if we should remove this panel - maybe the methods of fish counting are a tangent? you could go straight to the graph in panel 3]_
 
 > Fair question. Fish live underwater. They move around. You cannot line them up and count heads.
 >
