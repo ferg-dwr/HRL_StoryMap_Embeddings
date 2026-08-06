@@ -115,13 +115,13 @@ and it quietly previews Chapter 2's farming-and-habitat argument.
 
 ### Panel 5 — The Delta...✅
 
-> ... was a **kitchen**. Shallow, sunny water grew food, and that food fed everything else.
+> ... was a **kitchen**. Shallow, sunny water grew food, and that food fed everything else. This includes people, from time immemorial, from the first Indigenous people, who came to the Delta to fish for salmon and other species, and to harvest the tule and other plants for baskets and housing.
 >
 > ... was a **sponge**. When the rivers ran high, the **marsh** spread that water out and slowed it down.
 >
 > ... was a **nursery**. Young salmon grew bigger and stronger here before facing the ocean.
 >
-> The Delta did all of this for thousands of years.
+> The Delta did all of this for thousands of years. 
 
 **Three jobs — kitchen, sponge, nursery — are the spine of Chapter 1.** Screen 3 pays
 off each one by name.
