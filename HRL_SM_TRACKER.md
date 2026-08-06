@@ -226,7 +226,7 @@ this needs assembling, not sourcing.
 >
 > About 706,000 acres of floodplain and wetland have become roughly 98,000. That's a little over 600,000 acres gone — [SIZE COMPARISON TBD].
 >
-> And the marsh didn't take its jobs with it. The kitchen, the sponge, the nursery — those jobs just stopped getting done.
+> And the marsh didn't take its jobs with it. The kitchen, the sponge, the nursery — those jobs are now only getting done at fraction of what they were originally.
 
 **Media — FIG:** Floodplain loss figure from `Delta_Floodplain_Analysis.ipynb`.
 **Consider FIG-i:** an animated or draggable bar that shows 706,000 shrinking to 98,000.
