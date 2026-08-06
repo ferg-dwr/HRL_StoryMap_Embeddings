@@ -168,7 +168,7 @@ channels and geometric fields. Sets up the contrast before either map appears.
 >
 > The green and blue is wet ground — marsh, ponds, and channels that filled and drained with the seasons. Look how much of it there is. Look how the water wanders.
 >
-> This is what a river system looks like when nobody has told it where to go.
+> This is what a river system looks like when nobody has told it where to go. For a baby salmon, looking to eat, hide, rest, and move its way downstream, this version of the Delta would offer options for feeding, bolstering itself for the big ocean waters ahead.
 
 **Media — MAP:** ✅ **Published.** SFEI 1800s floodplain / habitat map.
 
