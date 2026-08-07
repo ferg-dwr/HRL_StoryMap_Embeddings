@@ -3,7 +3,7 @@
 **Project:** Healthy Rivers and Landscapes public StoryMap
 **Platform:** ArcGIS StoryMaps → CNRA website (possibly 30x30 California)
 **Audience:** General public, elementary reading level
-**Last updated:** 2026-08-05
+**Last updated:** 2026-08-07
 
 **Status key:** ✅ drafted · 🟡 partial · ⬜ not started
 
@@ -23,6 +23,7 @@
 - **Keep it tight.** Cut any sentence that repeats the one before it
 - Every panel answers a question the previous panel made the reader ask
 - No number lands before the reader has a reason to care about it
+- **Aside box heading is "But why should we care?"** — same wording everywhere it appears
 
 ## Media conventions
 
@@ -67,6 +68,11 @@ survey at Phillips Station**. Surveyors in the snow with the measuring tube is o
 the most recognizable images in California water, it is unmistakably DWR, and it opens
 the story with people rather than a diagram. Strong candidate for an autoplay video
 panel.
+
+**🎬 Video tie-in:** Wade names *"The Tuolumne. The Delta. The mighty Sacramento River
+and its tributaries."* The Tuolumne now appears in both — good. Consider whether the
+Sacramento should be named here too so all three of his rivers have been met before he
+speaks.
 
 ### Panel 2 — Everything funnels to one spot ✅
 
@@ -121,10 +127,17 @@ and it quietly previews Chapter 2's farming-and-habitat argument.
 >
 > ... was a **nursery**. Young salmon grew bigger and stronger here before facing the ocean.
 >
-> The Delta did all of this for thousands of years. 
+> The Delta did all of this for thousands of years.
 
 **Three jobs — kitchen, sponge, nursery — are the spine of Chapter 1.** Screen 3 pays
 off each one by name.
+
+**⚠️ New: this panel now carries tribal content.** Two consequences.
+(1) It needs the same sign-off path as Screen 8 — tribal material shouldn't appear in
+Chapter 1 under a lighter review standard than Chapter 2.
+(2) It strengthens the case for adding Wade's tribal line back into the video. The
+production notes held that line because Chapter 1 didn't cover cultural history. It does
+now. See the Video Reconciliation section.
 
 **Media — FIG-i:** *Recommended interactive.* Three-panel figure, one per job, where
 hovering or tapping a job highlights it and dims the others. Simple SVG + a little JS,
@@ -136,6 +149,7 @@ because the entire Screen 3 structure depends on the reader remembering them.
 - [ ] Confirm tributary names match HRL project rivers (program office)
 - [ ] Confirm "almost half of California" vs. published ~40% figure
 - [ ] Build tributary reveal layers in AGOL (one filtered copy per river)
+- [ ] **Tribal sign-off on Panel 5 Indigenous content** — route with Anecita Agustinez
 - [ ] **Request from DWR:** snow survey footage/stills (Phillips Station)
 - [ ] **Request from DWR:** tule marsh ground-level photo with scale reference
 - [ ] **Request from DWR:** waterfowl on flooded Delta or bypass field
@@ -190,6 +204,10 @@ channels and geometric fields. Sets up the contrast before either map appears.
 *Framing note: "trade, not crime" is what lets farmers and water agencies stay in the
 story through Chapter 2.*
 
+**🎬 Video tie-in:** Wade opens with *"Rivers were straightened. Wetlands were drained."*
+Same events, same framing. The b-roll table calls for the historical/modern wipe here —
+so the Panel 5 swipe asset does double duty as video b-roll.
+
 **Media — DWR (archival):** *If available* — a **historical photograph of Delta
 reclamation**: clamshell dredge, levee construction, or a crew building embankments.
 This is the single highest-value photo request in the project. A real photo of people
@@ -218,7 +236,7 @@ a decision the story is asking readers to understand rather than condemn.
 > Watch the green go away.
 
 **Media — MAP:** Swipe block, SFEI 1800s vs. USGS 2012. Both layers already published —
-this needs assembling, not sourcing.
+this needs assembling, not sourcing. *Also serves as video b-roll — see Panel 3.*
 
 ### Panel 6 — The numbers ✅
 
@@ -228,11 +246,23 @@ this needs assembling, not sourcing.
 >
 > And the marsh didn't take its jobs with it. The kitchen, the sponge, the nursery — those jobs are now only getting done at fraction of what they were originally.
 
+**🚨 This decision constrains the video — resolve it before the shoot.**
+Wade's short cut says *"Almost nine out of ten floodplains… are gone."* That works at
+86% or 90%. It does **not** work at Cloern's 76%, and it does not work with a hedged
+range. Whatever this panel lands on, Wade's line has to match — and a talking head is
+expensive to re-shoot. If the number stays unsettled, the safest video wording is
+qualitative: *"Most of the floodplains… are gone."*
+
+Also: *"nine out of ten floodplains"* counts floodplains; the 86% measures **area**.
+"Nine out of ten **acres** of floodplain" is the precise version and costs one word.
+
 **Media — FIG:** Floodplain loss figure from `Delta_Floodplain_Analysis.ipynb`.
 **Consider FIG-i:** an animated or draggable bar that shows 706,000 shrinking to 98,000.
-Watching the number fall beats reading it.
+Watching the number fall beats reading it. *Also the b-roll for Wade's number line.*
 
 ### Screen 2 to-dos
+- [ ] **Resolve the loss figure** — single number vs. range vs. ">" prefix (LC comment).
+      **Blocks the video script.** Decide before Wade's shoot date
 - [ ] **Verify acreage against `Delta_Floodplain_Analysis.ipynb`** — 706,000 → 98,000
 - [ ] **Pick size comparison.** Rhode Island (~776,000 ac) is larger than the loss —
       soften the wording or find a California comparison that lands precisely
@@ -253,7 +283,7 @@ Watching the number fall beats reading it.
 stakes folded into each. Human relationship — tribal, historical, recreational — stays
 on Screen 8.
 
-**Layout note:** "Why it matters to you" was designed for full page width. Inside a
+**Layout note:** "But why should we care?" was designed for full page width. Inside a
 docked sidecar panel it needs a distinct visual treatment so it reads as an aside rather
 than more body text. Options: a short rule above it plus bold lead-in, or a small
 FIG-i embed styled like the vocabulary cards. Recommend the latter for consistency.
@@ -277,6 +307,13 @@ well as verbal.
 > **But why should we care?**
 >
 > The Yolo Bypass was built to keep Sacramento from flooding. When the river runs high, the water spreads out there instead of into the city. The same flooded field that feeds baby salmon is the one keeping neighborhoods dry — and farmers grow rice on it the rest of the year.
+
+**⚠️ Yolo Bypass appears twice.** Here it establishes that salmon **grow faster** on
+flooded fields. Wade returns to it saying **food production** is off the charts at an HRL
+project there. Two different measurements at the same place — a reader may hear the
+second as a restatement. Keep the older growth study here; Wade's line should signal
+novelty (*"and at our new project there…"*). Handled well this is a callback, and the
+clearest demonstration in the piece that HRL builds on evidence.
 
 **Media — DWR:** Pascale suggestion on animation of flooding as seen by satellite imagery.
 
@@ -313,8 +350,13 @@ static figure has to work hard to show it.
 >
 > When salmon get into trouble, people feel it too. Salmon fishing has been closed in California in recent years. That hits fishing families, boat owners, and coastal towns. And rules made to protect fish in trouble shape how much water can be sent to farms and cities. Healthy fish make those choices easier for everyone.
 
-**Media — FIG:** Native fish vignettes — illustrations or specimen photographs with
-names. Consider CDFW as a source if DWR imagery is thin.
+**⚠️ Media/copy mismatch.** The native fish names (Sacramento perch, Delta smelt,
+thicktail chub) were cut from this panel, so "native fish vignettes" no longer matches
+the text. Either restore a fish-diversity line or swap the media to something salmon-
+specific — a young salmon in a floodplain vs. a channel would fit the new copy better.
+Note: cutting the fish list also resolves the Delta smelt political question by default.
+
+**Media — FIG:** ~~Native fish vignettes~~ — **needs re-spec, see above.**
 
 ### Panel 5 — Closing, hinge into Screen 4
 
@@ -327,18 +369,17 @@ in hand during monitoring, or on a spawning gravel bed. Hands off to Screen 4.
 
 ### Screen 3 to-dos
 - [ ] Confirm Yolo Bypass salmon growth finding and pick a citation
+- [ ] **Coordinate the two Yolo Bypass claims** with Wade's script (growth vs. food)
 - [ ] Verify subsidence depths with a DWR data lead ("two or three stories")
-- [ ] Confirm thicktail chub last-observed date
-- [ ] **Decide whether to name Delta smelt** — politically loaded in CA water debate.
-      Thicktail chub carries the emotional weight without the baggage
+- [ ] **Re-spec Panel 4 media** now that the native fish list is cut
 - [ ] Decide whether to name carbon/climate explicitly in Panel 3
 - [ ] **Request from DWR:** Yolo Bypass flooded + dry aerial pair
 - [ ] **Request from DWR:** levee-top photo showing subsided island
 - [ ] **Request from DWR:** Chinook salmon hero image
 - [ ] Build food web figure
 - [ ] Build subsidence cross-section (FIG-i candidate)
-- [ ] Source native fish vignettes (check CDFW)
-- [ ] Decide and build the "Why it matters to you" treatment inside sidecar panels
+- [ ] Decide and build the "But why should we care?" treatment inside sidecar panels
+- [ ] ~~Confirm thicktail chub date~~ · ~~Delta smelt naming decision~~ — *moot, fish list cut*
 
 ---
 
@@ -367,10 +408,16 @@ in hand during monitoring, or on a spawning gravel bed. Hands off to Screen 4.
 
 *Gets past "escapement" without ever using the word.*
 
+**On cutting it — one consideration.** Wade's third idea is *"scientists measure the fish,
+the water, and the landscapes… if we didn't look for this, we wouldn't know."* Screen 11
+makes the same argument. If this panel goes, the reader meets "people measure things"
+for the first time in Chapter 2, as a claim about HRL rather than an established practice.
+Keeping it means the credibility beat is built in Chapter 1 and paid off twice later.
+A compromise: cut it to two sentences rather than removing it, so it reads as a quick
+aside instead of a methods tangent.
+
 **Media — DWR:** *If available* — **field crew counting or sampling fish**. Rotary screw
-trap, weir, carcass survey, anything with people doing the work. This panel is quietly
-about *how we know things*, which is the foundation of Chapter 2's credibility argument.
-Showing real fieldwork here pays off later.
+trap, weir, carcass survey, anything with people doing the work.
 
 ### Panel 3 — The graph
 
@@ -406,11 +453,16 @@ individual years builds trust. Source: `Chinook_Escapement_Figure.ipynb`.
 *"One of several problems" matters — a single-cause claim invites a fight from anyone
 who studies this, and Chapter 2's credibility rests on Chapter 1 being careful.*
 
+**🎬 Video tie-in:** Wade says the floodplain loss *"is part of the reason that our beloved
+salmon populations are struggling."* "Part of the reason" and "one of several problems"
+are the same careful framing. Keep both.
+
 **Media — MAP:** Delta extent showing habitat loss and the salmon graph side by side, or
 the swipe map reprised small.
 
 ### Screen 4 to-dos
 - [ ] **Fill in years and counts** from GrandTab
+- [ ] **Decide on Panel 2** — cut, keep, or shorten (see note above)
 - [ ] Resolve: fall run only, or all runs shown together?
 - [ ] Build interactive escapement figure (FIG-i) from `Chinook_Escapement_Figure.ipynb`
 - [ ] Confirm the 1950s start date for California salmon counting
@@ -443,13 +495,17 @@ That is the single best use of a Sidecar in the whole story.
 >
 > **It heads downstream.** The young salmon rides the spring water down, out of the mountains, toward the middle of the state.
 >
-> **It stops in the Delta.** This is the part people miss. Young salmon do not always race through the Delta. They may need to stop, and eat, and give time to growth — sometimes for weeks. 
+> **It stops in the Delta.** This is the part people miss. Young salmon do not always race through the Delta. They may need to stop, and eat, and give time to growth — sometimes for weeks.
 >
 > **It goes to sea.** Out through the Golden Gate and into the Pacific, where it spends two to four years growing into something twenty times its size.
 >
 > **It comes home.** Then it turns around and swims back — up the coast, through the Delta, up the rivers, and into the same stream where it hatched. Scientists think it navigates partly by smell.
 >
 > **It lays eggs, and it dies.** Its body stays in the river and feeds everything around it. Bears, birds, bugs, trees. Nutrients from the Pacific Ocean end up in a forest a hundred miles inland, carried there by fish.
+
+**🎬 Video tie-in:** Wade says HRL sends water *"in winter and spring, when young salmon
+need more space for growing and migrating."* The downstream-migration stage here is what
+makes that line land. Keep the seasonal timing explicit in both.
 
 **Media — MAP per stage:** the lifecycle map with the active stage highlighted and the
 camera moving to that part of the watershed.
@@ -532,6 +588,11 @@ legitimate claims. Explain the Bay-Delta Water Quality Control Plan at elementar
 without wading into the politics. State the honest constraint: there is not enough to
 give everyone everything, in most years.
 
+**🎬 Video tie-in:** Wade's closing line — *"We can have reliable water for our homes and
+farms and rivers full of fish. We don't have to choose."* — is the answer to this screen's
+question. If Screen 7 states the tension honestly, his line lands as a resolution rather
+than a slogan.
+
 **Media — FIG-i:** *Strong interactive candidate.* Where the water goes — a flow or
 allocation diagram the reader can explore, ideally showing how it shifts between wet and
 dry years. Static won't carry this; the whole point is that the answer changes.
@@ -546,6 +607,10 @@ a drought year.
 coastal communities. Historical significance. Modern life in the Delta. The argument
 that people and salmon are not on opposite sides.
 
+**Note:** Screen 1 Panel 5 now opens the tribal thread with Indigenous fishing and tule
+harvest. This screen continues it rather than introducing it — worth telling Anecita that
+the material appears in two places so review covers both.
+
 **Needs:** Anecita Agustinez (Tribal Policy Advisor) on tribal content and sign-off;
 Mariko Falke on framing.
 
@@ -557,14 +622,23 @@ commercial and recreational fishing, Delta communities, people on the water.
 
 **Format:** Sidecar (docked) · ~4 panels
 **Status:** ⬜ copy not drafted
-**Content:** HRL itself. Three plain ideas: **more water**, **more room to grow**,
-**science that keeps checking**. What the program actually commits to and how flow plus
-habitat work together rather than separately.
+**Content:** HRL itself. Three ideas, worded to match the video exactly:
+
+1. **More water** — extra water down the rivers in winter and spring, when young salmon
+   need space to grow and migrate
+2. **More room to grow** — the *Landscapes* part. Reconnecting rivers to floodplains so
+   shallow water grows food. This is **restoration**
+3. **Scientists who check the work** — measuring fish, water, and landscapes, and
+   changing course when something isn't helping
+
+*Wade's script is finalized, so the text adopts his framing rather than the reverse.*
 
 **Media — MAP:** HRL project boundaries across the watershed. Reinforces that this is a
 whole-system program, not a Delta-only one.
-**Media — DWR:** Secretary Crowfoot or Deputy Secretary Arthur video (script drafted;
-outdoors; under a minute; muted autoplay so captions are required).
+
+**🎬 Video placement — OPEN DECISION.** See Video Reconciliation below. If the video
+moves to Screen 12, this screen carries the three ideas in text and hands off to Screen
+10; if it stays here, the closing 15 seconds need cutting.
 
 ## Screen 10 · Where it's happening ⬜
 
@@ -573,6 +647,12 @@ click-through, each with a photo and a sentence.
 **Status:** ⬜
 **Content:** Example projects — Prospect Island, Lower Elkhorn Basin, tributary work.
 Plus "the people of HRL."
+
+**⚠️ Naming mismatch with the video.** Wade says *"In Solano County"* (= Prospect Island)
+and *"along the Yolo Bypass, we moved levees back"* (= Lower Elkhorn Basin). This screen
+names the projects. A viewer who hears counties and then sees project names has to do the
+matching. Cheapest fix: have Wade name them — *"In Solano County, at a place called
+Prospect Island…"* Then this screen is a payoff instead of a puzzle.
 
 **Media — DWR:** *If available* — **before/after or during-construction photos** for each
 project site. Construction imagery is persuasive precisely because it is unglamorous:
@@ -584,7 +664,14 @@ it shows work being done rather than promised.
 **Status:** ⬜ copy not drafted
 **Content:** The credibility beat. "We watch. We measure. We change what we do."
 Monitoring, and what happens when results come back different than expected.
-**Avoid the term "adaptive management"** — say what it means instead.
+**Avoid the term "adaptive management"** — say what it means instead. *(Wade's script
+does the same — the idea without the phrase.)*
+
+**⚠️ Redundancy risk.** Wade's third idea already makes this argument, and his Yolo Bypass
+line (*"if we didn't look for this, we wouldn't know"*) is the same point with evidence
+attached. This screen has to go **deeper** — actual monitoring, actual early results, the
+HRL Science Plan and the cross-tributary collaboration Wade mentions — rather than
+restating the concept. If it can't, fold it into Screen 9 and let Wade carry it.
 
 **Media — DWR:** *If available* — **monitoring in action**: crews with nets, screw traps,
 water quality sondes, tagging. Callback to Screen 4 Panel 2 — same kind of work, now
@@ -599,8 +686,84 @@ honest chart beats any amount of description.
 **Content:** Forward-looking close. What the Delta could look like in thirty years if
 this works. Sources and further reading move to a footer rather than being the ending.
 
+**🎬 Recommended home for the Wade video.** The script's arc — loss, response, proof,
+invitation — is the whole StoryMap in miniature, and it already ends with *"Thank you for
+reading this story"* plus the newsletter call to action. That's an ending, not a
+mid-story introduction.
+
 **Media — DWR:** a hopeful image — restored habitat with water on it, or people in the
 field. End on something living.
+
+---
+
+# 🎬 Video Reconciliation — Wade Crowfoot talking points
+
+*Source: `Wade_TPs_for_HRL_Story_Map_2026.docx`. Script is finalized; the StoryMap moves
+to match it unless noted. Doc header says "Chapter 3 Video" — after the merge, that
+chapter no longer exists.*
+
+## Decisions needed before the shoot
+
+| # | Issue | Options | Recommendation |
+|---|---|---|---|
+| 1 | **Where the video lives.** Script closes the story, but Screen 9 has three screens after it | (a) Move to Screen 12 · (b) Keep at 9, cut the last 15 sec · (c) Short cut at 9, closing lines re-recorded for 12 | **(a)** — the script is already an ending |
+| 2 | **Runtime.** Outreach asked for "less than a minute"; full script is ~1:50 | (a) Send revised runtime now · (b) Shoot the ~0:45 cut as the deliverable | **(b)**, with the full version as a stretch goal if the shoot allows |
+| 3 | **The loss figure.** Wade says "almost nine out of ten"; Screen 2 Panel 6 is unresolved (86% / >90% / Cloern 76%) | (a) Lock a number first · (b) Use qualitative wording in the video | **(a) if it can be settled this week, otherwise (b)** — "Most of the floodplains are gone" is safe at any value |
+| 4 | **Project naming.** Wade says counties; Screen 10 names projects | (a) Wade names them · (b) Screen 10 adds county labels | **(a)** — one clause, and it turns Screen 10 into a payoff |
+| 5 | **Tribal line.** Held from the draft pending sign-off. Screen 1 Panel 5 now carries tribal content | (a) Add it back with sign-off · (b) Leave to Screen 8 | **(a) if Anecita signs off** — Chapter 1 now supports it |
+| 6 | **Screen 11 overlap.** Wade covers "scientists check the work" | (a) Screen 11 goes deeper · (b) Fold 11 into 9 | **(a)** — Science Plan and cross-tributary collaboration are new material |
+
+## Scope alignment
+
+Wade says **Central Valley**; Chapter 1's numbers are **Delta**-specific (SFEI/USGS).
+Both are accurate in their own place, but back to back the numbers look like they grew.
+Fix: say **Delta** wherever a number is attached, **Central Valley** when describing the
+program's reach — which is genuinely watershed-wide.
+
+## Wording to keep identical
+
+| Concept | Agreed wording |
+|---|---|
+| The three ideas | more water · more room to grow (restoration) · scientists who check the work |
+| Cause framing | "part of the reason" / "one of several problems" — never single-cause |
+| Adaptive management | never named; say "we check our work and change it if it isn't helping" |
+| The trade | farmland, cities, and water supply were real gains — never framed as a crime |
+| Closing thesis | "We can have reliable water… We don't have to choose" — Screen 7 sets it up |
+
+## Assets doing double duty
+
+| Asset | StoryMap use | Video use |
+|---|---|---|
+| Swipe map (SFEI vs. USGS) | Screen 2 Panel 5 | B-roll: "rivers were straightened" |
+| Floodplain loss figure | Screen 2 Panel 6 | B-roll: the number line |
+| Food web figure | Screen 3 Panel 2 | B-roll: "tiny plants and animals bloom" |
+| Prospect Island photos | Screen 10 | B-roll: "1,600 acres" |
+| Lower Elkhorn Basin, inundated | Screen 10 | B-roll: "moved levees back" |
+
+*Build these once, at video resolution, and they serve both.*
+
+## Production items
+
+- [ ] Burn in captions — StoryMaps autoplays muted until clicked
+- [ ] Title card (~2 sec): "Wade Crowfoot, Secretary for Natural Resources"
+- [ ] Visible "Tap for sound" prompt in the first frame
+- [ ] Poster frame with motion or landscape, not a mid-blink headshot
+- [ ] **QR code won't work on mobile** — a phone can't scan its own screen. Pair with a
+      tappable link
+- [ ] Confirm Prospect Island (1,600 ac) and Lower Elkhorn (1,000 ac) figures are current
+- [ ] Keep Bay-Delta Plan adoption language evergreen — re-shooting a talking head is
+      expensive
+- [ ] Route final script through CNRA communications
+- [ ] Reading-level score on the **approved** text, not the draft
+
+## Resolved
+
+- ✅ *Levee* is now in the vocabulary set (25 terms live) — the production note saying
+  otherwise is stale. Wade can say "levees" as written
+- ✅ *Floodplain* and *wetland* both appear well before the video in the scroll
+- ✅ Tuolumne now named in Screen 1 Panel 1, matching Wade's river list
+- ✅ Acre-feet correctly left out of spoken dialogue — on-screen text with a footnote if
+  the 750,000 AF figure is wanted
 
 ---
 
@@ -624,15 +787,15 @@ field. End on something living.
 | 9 | Tule marsh at ground level, with scale | 1·3 | Sells "taller than a basketball hoop" |
 | 10 | Waterfowl on flooded field | 1·4 | Previews the farming-and-habitat argument |
 | 11 | Wide aerial of modern Delta | 2·1 | Sets up the contrast |
-| 12 | Project before/after and construction photos | 10 | Unglamorous work is persuasive |
+| 12 | Project before/after and construction photos | 10 | Also video b-roll — shoot once |
 | 13 | Reservoir wet year vs. drought year pair | 7 | Shows variability without words |
 | 14 | Restored habitat, hopeful closing image | 12 | End on something living |
 
 ## Custom figures — static (FIG)
 - [ ] Three jobs graphic (kitchen / sponge / nursery) — Screen 1·5
-- [ ] Floodplain loss figure — Screen 2·6 — *notebook exists*
-- [ ] Food web comparison, floodplain vs. channel — Screen 3·2
-- [ ] Native fish vignettes — Screen 3·4
+- [ ] Floodplain loss figure — Screen 2·6 — *notebook exists · also video b-roll*
+- [ ] Food web comparison, floodplain vs. channel — Screen 3·2 — *also video b-roll*
+- [ ] Panel 4 media — **re-spec needed**, native fish list was cut
 - [ ] Lifecycle map with per-stage highlighting — Screen 5
 
 ## Custom figures — interactive (FIG-i)
@@ -645,7 +808,7 @@ Hosted in `HRL_StoryMap_Embeddings` alongside the vocabulary cards, embedded as 
 | Lifecycle stressors, tap each point | 5·4 | Handles Scott's information volume without crowding |
 | Subsidence cross-section with year slider | 3·3 | Mechanism is temporal; static has to work hard |
 | Where the water goes, wet vs. dry year | 7 | The answer changes — that *is* the content |
-| Acreage 706,000 → 98,000, animated | 2·6 | Watching a number fall beats reading it |
+| Acreage animated shrink | 2·6 | Watching a number fall beats reading it |
 
 *Build order suggestion: three jobs first (smallest, and two screens depend on it), then
 escapement, then lifecycle stressors.*
@@ -677,11 +840,13 @@ Screen 3 Panels 2–3.
 - [ ] *Yolo Bypass* — proper noun, explained inline. Probably fine as is
 - [ ] *escapement* — avoided entirely on Screen 4. Keep it that way
 - [ ] *smolt* — deliberately not used. "Young salmon" instead
-- [ ] *adaptive management* — Screen 11. Needs plain-language replacement, not a card
+- [ ] *adaptive management* — Screen 11 **and the video**. Needs plain-language
+      replacement, not a card. Both already avoid it — keep it that way
 - [ ] *diversion* — will come up on Screens 6–7
 - [ ] *reservoir* — Screen 6. Likely needs a card
 - [ ] *aqueduct* — Screen 6. Likely needs a card
 - [ ] *drought* — Screen 7. Probably known, but worth a card at this reading level
+- [ ] *Indigenous* — Screen 1 Panel 5. Check whether it needs a card at this reading level
 
 **Rule of thumb:** if a fourth grader would stop reading to ask what it means, it needs
 a card. If a card can't make it clear in three sentences, rewrite the sentence instead.
@@ -691,13 +856,15 @@ a card. If a card can't make it clear in three sentences, rewrite the sentence i
 # Cross-cutting to-dos
 
 - [ ] Confirm HRL tributary list with program office
+- [ ] **Resolve the floodplain loss figure — blocks the video script**
 - [ ] Verify all acreage and percentage figures against notebooks
 - [ ] Alt text for every figure, map, and photo (state accessibility requirement)
-- [ ] Captions on the Crowfoot/Arthur video — StoryMaps autoplay is muted by default
+- [ ] Captions burned into the Crowfoot video — StoryMaps autoplay is muted by default
 - [ ] Identify draft reviewers and data leads
 - [ ] CNRA communications review of the Secretary video script
 - [ ] Confirm Prospect Island (1,600 ac) and Lower Elkhorn Basin (1,000 ac) acreages
 - [ ] Bay-Delta Plan adoption status — keep language evergreen until confirmed
-- [ ] Tribal content sign-off before publication
+- [ ] **Tribal sign-off covers two places now** — Screen 1 Panel 5 and Screen 8, plus the
+      proposed video line
 - [ ] Decide embed vs. link vs. inline for each vocabulary term
 - [ ] Photo rights and attribution check on every non-DWR image
