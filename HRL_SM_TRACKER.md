@@ -53,7 +53,7 @@ Interactive figures use the same GitHub Pages repo as the vocabulary cards
 >
 > When spring comes, the rivers rise with snow melt. And melted snow does what all water does — it runs downhill.
 >
-> It starts in tiny streams you could step across. Those streams join up and get bigger. They become rivers with names: the Yuba. The American. The Tuolumne.
+> It starts in tiny streams you could step across. Those streams join up and get bigger. They become rivers with names: the Yuba. The Feather. The American. The Sacramento.
 >
 > All of them are heading for the same place - the lower watershed, then the ocean.
 >
@@ -69,7 +69,7 @@ the most recognizable images in California water, it is unmistakably DWR, and it
 the story with people rather than a diagram. Strong candidate for an autoplay video
 panel.
 
-**🎬 Video tie-in:** Wade names *"The Tuolumne. The Delta. The mighty Sacramento River
+**🎬 Video tie-in:** Wade names *"The Feather. The Delta. The mighty Sacramento River
 and its tributaries."* The Tuolumne now appears in both — good. Consider whether the
 Sacramento should be named here too so all three of his rivers have been met before he
 speaks.
@@ -94,7 +94,7 @@ than assert it.
 >
 > Most of it was marsh — soft, wet ground covered in tall green reeds called **tule** (say: TOO-lee). Some tule grew taller than a basketball hoop.
 >
-> Every spring, all that mountain snow arrived at once. The rivers filled up and spilled out sideways. Water spread across hundreds of thousands of acres, shallow and slow and warm in the sunlight.
+> Every spring, all that mountain snow arrived at once. The rivers filled up and spilled out sideways. Water spread across hundreds of thousands of acres, shallow and slow and warmed in the sunlight.
 >
 > Then it drained away again. And the marsh soaked up what was left, like a giant sponge.
 
@@ -121,11 +121,12 @@ and it quietly previews Chapter 2's farming-and-habitat argument.
 
 ### Panel 5 — The Delta...✅
 
-> ... was a **kitchen**. Shallow, sunny water grew food, and that food fed everything else. This includes people, from time immemorial, from the first Indigenous people, who came to the Delta to fish for salmon and other species, and to harvest the tule and other plants for baskets and housing.
 >
 > ... was a **sponge**. When the rivers ran high, the **marsh** spread that water out and slowed it down.
 >
-> ... was a **nursery**. Young salmon grew bigger and stronger here before facing the ocean.
+> ... was a **kitchen**. Shallow, sunny water grew food, and that food fed everything else. 
+>
+> ... was a **nursery**. Young salmon found safety from the fast water and large fish in the rivers and then grew bigger and stronger here before facing the ocean.
 >
 > The Delta did all of this for thousands of years.
 
@@ -182,7 +183,7 @@ channels and geometric fields. Sets up the contrast before either map appears.
 >
 > The green and blue is wet ground — marsh, ponds, and channels that filled and drained with the seasons. Look how much of it there is. Look how the water wanders.
 >
-> This is what a river system looks like when nobody has told it where to go. For a baby salmon, looking to eat, hide, rest, and move its way downstream, this version of the Delta would offer options for feeding, bolstering itself for the big ocean waters ahead.
+> This is what a river system looks like when nobody has told it where to go. For a baby salmon, looking to eat, hide, rest, and move its way downstream, this version of the Delta would offer options for shelter and feeding, bolstering itself for the big ocean waters ahead.
 
 **Media — MAP:** ✅ **Published.** SFEI 1800s floodplain / habitat map.
 
@@ -244,7 +245,7 @@ this needs assembling, not sourcing. *Also serves as video b-roll — see Panel 
 >
 > About 706,000 acres of floodplain and wetland have become roughly 98,000. That's a little over 600,000 acres gone — [SIZE COMPARISON TBD].
 >
-> And the marsh didn't take its jobs with it. The kitchen, the sponge, the nursery — those jobs are now only getting done at fraction of what they were originally.
+> And the marsh didn't take its jobs with it. The kitchen, the sponge, the nursery — those jobs are now only getting done at a fraction of what they were originally.
 
 **🚨 This decision constrains the video — resolve it before the shoot.**
 Wade's short cut says *"Almost nine out of ten floodplains… are gone."* That works at
@@ -290,7 +291,7 @@ FIG-i embed styled like the vocabulary cards. Recommend the latter for consisten
 
 ### Panel 1 — Opening
 
-> When the marsh disappeared, the Delta stopped doing its jobs.
+> When the marsh disappeared, the Delta struggled doing its jobs.
 
 **Media — FIG-i:** Reprise the three-jobs interactive from Screen 1 Panel 5, now with
 each job greyed out or marked. Reusing the same graphic makes the callback visual as
@@ -520,6 +521,8 @@ would make this the most memorable screen in the piece.
 > Every salmon passes through it twice. Once on the way out, small and hungry. Once on the way back, grown and heading home.
 >
 > A salmon that leaves the Delta bigger has a much better shot at surviving the ocean. So the size of a fish in spring shapes how many come home years later.
+>
+> The ocean can be more or less dangerous for young salmon at different, if salmon spend different amounts of time growing in the Delta they will leave at different times and at different sizes. This range in the size and timing of entering the ocean also shapes how many come home years later. Spreading the risk across individuals keeps the group safe.
 >
 > That marsh was where the fish got big enough to make it.
 
