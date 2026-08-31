@@ -248,6 +248,7 @@ a decision the story is asking readers to understand rather than condemn.
 this needs assembling, not sourcing. *Also serves as video b-roll — see Panel 3.*
 
 ### Panel 6 — The numbers ✅
+Wayde Crowfoot Video (2:27.03 we also need - 3:08.05 if it isn't)
 
 > The Delta has lost about **86%** of its floodplain. [_check #s - see LC comment - some articles report >90% loss, and Cloern et al. 2021 say 76% loss - it all depends on the spatial scale measured and whether the analysis is counting floodplains, wetlands, or both. Maybe we move away from a single number and put a "greater than" prefix of say a range?]_
 >
@@ -742,6 +743,7 @@ commercial and recreational fishing, Delta communities, people on the water.
 ---
 
 ## Screen 9 · The plan ⬜
+Wade Crowfoot Video : 0-42.05 seconds (Introduce HRL)
 
 **Format:** Sidecar (docked) · ~4 panels (5 if the video stays here)
 **Status:** ⬜ outlined, copy not drafted
@@ -872,7 +874,8 @@ honest chart beats any amount of description.
 ---
 
 ## Screen 12 · What comes next ⬜
-
+Wayde Crowfoot Video (Timestamp 0:00 - 0:40.5)
+Wayde Crowfoot Video (Timestamp 1:27.24 - 1:57.27)
 **Format:** Sidecar (docked) · ~2–3 panels
 **Status:** ⬜
 **Job:** land the ending. Forward-looking, honest, not triumphant.
