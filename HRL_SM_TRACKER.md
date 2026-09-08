@@ -80,7 +80,7 @@ Valley program.
 
 ### Panel 2 — Everything funnels to one spot ✅
 
-> Those rivers feed into two big ones. The Sacramento River flows down from the north. The San Joaquin River flows up from the south.
+> Those rivers feed into two big ones. The Sacramento River flows from the north. The San Joaquin River flows from the south.
 >
 > Together, they drain almost half of California. Rain and snowmelt from an enormous stretch of the state — mountains, foothills, farmland, towns — all of it drains into these two rivers.
 >
