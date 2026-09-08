@@ -602,7 +602,7 @@ water agencies and makes the competing-demand problem real rather than theoretic
 - *This is genuinely remarkable engineering — say so*
 
 ### Panel 4 — And it worked
-- Cities grew where cities couldn't otherwise be
+- Cities grew where cities couldn't otherwise be if we didn't have reservoirs, pumping plants, and canals to direct water
 - The Central Valley became one of the most productive farm regions on Earth
 - Flood risk dropped for towns that used to flood regularly
 - Callback to Chapter 1: this is the other half of the trade
