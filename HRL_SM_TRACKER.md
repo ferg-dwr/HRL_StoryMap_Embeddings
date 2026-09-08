@@ -610,7 +610,7 @@ water agencies and makes the competing-demand problem real rather than theoretic
 ### Panel 5 — But the system was built for people, not fish
 - Dams block salmon from the cold upstream water where they used to spawn
 - Water taken out is water not flowing downstream
-- Straight channels move water efficiently and give young fish nowhere to rest
+- Straight channels move water efficiently and give young fish nowhere to rest, and they don't grow food like floodplains and wetlands
 - *Hinge:* none of this was done to hurt salmon. It's what happens when a system is
   designed for one job and asked to do another
 
