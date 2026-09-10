@@ -706,9 +706,9 @@ only.
 - **Content and wording to come from Anecita. Do not draft speculatively**
 
 ### Panel 2 — Fishing families
-- Commercial and recreational salmon fishing supports coastal communities
-- When the season closes, the loss is immediate and local
-- People whose livelihood depends on the same fish
+- Commercial and recreational salmon fishing supports communities, restaurants, and related industries, like ice
+- When the season is limited or doesn't open at all because of low salmon numbers, the loss is deeply felt 
+- There are ripple effects of this loss through communities
 
 ### Panel 3 — Everyone downstream
 - Delta communities, farmers, boaters, birders
