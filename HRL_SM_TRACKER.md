@@ -701,7 +701,7 @@ only.
 
 ### Panel 1 — Salmon were here first, and so were people
 - **Introduces** the tribal thread — Chapter 1's reference was removed, so this is the reader's first encounter
-- Tribes have relationships with salmon going back thousands of years
+- Tribes have relationships with salmon going back to time immemorial
 - Salmon as food, as ceremony, as identity
 - **Content and wording to come from Anecita. Do not draft speculatively**
 
