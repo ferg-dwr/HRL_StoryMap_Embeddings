@@ -760,7 +760,7 @@ finalized.
 ### Panel 2 — More water
 - Extra water sent down the rivers in winter and spring
 - Timed to when young salmon need room to grow and migrate
-- Water at the right moment, not simply more of it
+- Water at the right moment
 - Callback to Screen 5: this is the lifecycle stage that matters
 
 ### Panel 3 — More room to grow
@@ -770,7 +770,7 @@ finalized.
 - Callback: the kitchen, the sponge, the nursery
 
 ### Panel 4 — Scientists who check the work
-- Measuring fish, water, and landscapes before and after
+- Measuring fish, water, and landscapes before and after restoration and flow actions happen
 - Changing course when something isn't helping
 - *Avoid the term "adaptive management." Say what it means*
 - *Hinge into Screen 10:* so where is this actually happening?
